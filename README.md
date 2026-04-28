@@ -11,6 +11,8 @@ K1053
 - Legajo: 2326516
 - Usuario GitHub: https://github.com/amganff
 
+## Grupo 5
+
 ## Descripción
 Repositorio personal para la materia Algoritmos y Estructuras de Datos.
 
